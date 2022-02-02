@@ -6,6 +6,8 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa03-xiyuewang556633
 
+On Heroku: https://jpa03-xiyuewang556633.herokuapp.com/
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-xiyuewang556633-docs/storybook>
