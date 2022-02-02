@@ -4,6 +4,8 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-xiyuewang556633/branch/master/graph/badge.svg?token=in4cdAr6aS)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-xiyuewang556633)
 
+Repo: https://github.com/ucsb-cs156-w22/jpa03-xiyuewang556633
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-xiyuewang556633-docs/storybook>
